@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a2c3201-449e-4897-a27b-4a9d57eda3f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD splitwise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ACTION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualSplitingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExactSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpenseInputDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpenseSplitingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputHandeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PercentageSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PercentageSplitingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SPLIT_TYPE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShowingBalanceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SplitingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpltiwiseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pw2N5uUWORv1w3qT9PMVbItrEw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ayon1/LLD splitwise/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a2c3201-449e-4897-a27b-4a9d57eda3f7" name="Changes" comment="" />
+      <created>1733662774257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733662774257</updated>
+    </task>
+    <servers />
+  </component>
+</project>
